@@ -3,7 +3,7 @@
   
   # Hi there 👋, This is Mercury
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B082DA&title_bg=%23D6BEF6&icon=smugmug.svg&icon_color=%23CDFFE9&title=hits&edge_flat=false)](https://github.com/JinMercury)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinMercury&count_bg=%23B082DA&title_bg=%23D6BEF6&icon=smugmug.svg&icon_color=%23CDFFE9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   ![토토로](https://user-images.githubusercontent.com/39897996/220537035-0e8d187c-60fe-4d20-8b01-84a010e8e2b2.gif)<br><br>
 
