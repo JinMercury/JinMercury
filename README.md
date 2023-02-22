@@ -4,4 +4,4 @@
 
 ![JinMercury's github stats](https://github-readme-stats.vercel.app/api?username=JinMercury&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=JinMercury)](https://solved.ac/JinMercury)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mercury1989)](https://solved.ac/mercury1989)
